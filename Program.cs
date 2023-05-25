@@ -20,6 +20,9 @@ namespace EmployeeWageUsingOOPS
 
             EmployeeWageForMonth employee2 = new EmployeeWageForMonth();
             employee2.CheckEmployeeWageForMonth();
+
+            EmployeeDayMonthCalculation employeeDay = new EmployeeDayMonthCalculation();
+            employeeDay.CheckEmployeeDayMonthCalculation();
         }
     }
 }
