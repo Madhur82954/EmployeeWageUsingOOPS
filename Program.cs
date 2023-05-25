@@ -17,6 +17,9 @@ namespace EmployeeWageUsingOOPS
 
             UsingSwitchCase switchCase = new UsingSwitchCase();
             switchCase.CheckUsingSwitchCase();
+
+            EmployeeWageForMonth employee2 = new EmployeeWageForMonth();
+            employee2.CheckEmployeeWageForMonth();
         }
     }
 }
