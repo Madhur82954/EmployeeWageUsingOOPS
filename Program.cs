@@ -14,6 +14,9 @@ namespace EmployeeWageUsingOOPS
 
             PartTimeEmployeeWage part = new PartTimeEmployeeWage();
             part.CheckPartTimeEmployeeWage();
+
+            UsingSwitchCase switchCase = new UsingSwitchCase();
+            switchCase.CheckUsingSwitchCase();
         }
     }
 }
