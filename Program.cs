@@ -8,6 +8,9 @@ namespace EmployeeWageUsingOOPS
         {
             EmployeeAttendance employee = new EmployeeAttendance();
             employee.CheckEmployeeAttendance();
+
+            EmployeeWage employee1 = new EmployeeWage();
+            employee1.CheckEmployeeWage();
         }
     }
 }
