@@ -11,6 +11,9 @@ namespace EmployeeWageUsingOOPS
 
             EmployeeWage employee1 = new EmployeeWage();
             employee1.CheckEmployeeWage();
+
+            PartTimeEmployeeWage part = new PartTimeEmployeeWage();
+            part.CheckPartTimeEmployeeWage();
         }
     }
 }
